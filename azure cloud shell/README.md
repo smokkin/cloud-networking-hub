@@ -84,14 +84,6 @@ When you open Cloud Shell for the first time:
 # [2] PowerShell
 ```
 Switching Later: Use the shell selector dropdown in the Cloud Shell window
-Session Lifecycle
-┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
-│  Session Start  │────▶│  Active Usage   │────▶│  20min Inactive │
-│  (New VM Alloc) │     │  (Files persist)│     │  (Auto-terminate)│
-└─────────────────┘     └─────────────────┘     └─────────────────┘
-         │                                               │
-         └───────────────────────────────────────────────┘
-                    (Start new session to resume)
 
 Working with Files & Scripts
 
