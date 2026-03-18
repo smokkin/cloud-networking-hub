@@ -82,7 +82,7 @@ When you open Cloud Shell for the first time:
 # You'll be prompted to choose:
 # [1] Bash
 # [2] PowerShell
-
+```
 Switching Later: Use the shell selector dropdown in the Cloud Shell window
 Session Lifecycle
 ┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
