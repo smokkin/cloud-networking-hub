@@ -269,6 +269,4 @@ Azure Cloud Shell transforms any browser into a fully-equipped Azure administrat
 
 ---
 
-**Last Updated:** 2026-03-18  
-**Azure Service:** Cloud Shell  
 **Documentation:** [Microsoft Learn - Azure Cloud Shell](https://learn.microsoft.com/en-us/azure/cloud-shell/overview)
